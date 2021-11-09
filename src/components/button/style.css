@@ -1,0 +1,65 @@
+.social {
+    width: 9.25rem;
+    height: 2.25rem;
+    border: 2px solid #3a5b96;
+    color: #3a5b96;
+    border-radius: 1.25rem;
+    display: flex;
+    padding-top: 5px;
+    padding-left: 30px; 
+}
+.social p {
+    margin-top: 4px;
+    padding-left: 10px;
+}
+
+.social:hover {
+    background-color: #3a5b96;
+    color: white;
+}
+
+.load-more {
+    width: 16.375rem;
+    height: 2.25rem;
+    border: 2px solid #e8e2d6;
+    display: flex;
+    align-items: center;
+    padding-left: 5.25rem;
+    border-radius: 1rem;
+}
+
+.load-more p {
+    padding-right: 1rem;
+}
+
+.load-more:hover {
+    background-color: #84bc22;
+}
+
+.buy-now {
+    width: 9.625rem;
+    height: 2.25rem;
+    border-radius: 1rem;
+    border: 2px solid #d9d9d9;
+    background-color: #84bc22;
+    color: white;
+}
+
+.buy-now:hover {
+    border: 2px solid #84bc22;
+    background-color: white;
+    color: #84bc22;
+}
+
+.half {
+    width: 6.875rem;
+    height: 2.25rem;
+    border: 2px solid #e8e2d6;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.half:hover {
+    color: white;
+    background-color: #84bc22;
+}
