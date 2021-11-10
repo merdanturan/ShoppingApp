@@ -1,0 +1,17 @@
+.item-counter {
+    border: 2px solid #e8e2d6;
+    width: 6.625rem;
+    height: 2.25rem;
+    border-radius: 1.5rem;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.item-counter button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 18px;
+}
