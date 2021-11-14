@@ -63,3 +63,12 @@
     color: white;
     background-color: #84bc22;
 }
+
+.view-more {
+    width: 9.125rem;
+    height: 2.25rem;
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 1rem;
+    color: white;
+}

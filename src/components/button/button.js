@@ -27,7 +27,12 @@ const Button = ({
                                 BUY NOW
                             </button>
                             :
-                            null
+                            type === 'viewMore' ?
+                                <button className="view-more">
+                                    VIEW MORE
+                                </button>
+                                :
+                                null
             }
         </>
     )
