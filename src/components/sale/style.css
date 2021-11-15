@@ -1,0 +1,18 @@
+.main-sale {
+    text-align: center;
+    height: 19.25rem;
+    width: 16.875rem;
+    background-color: #84bc22;
+    color: white;
+    border-radius: 0.5rem;
+}
+
+.percent {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.summer-sale {
+    font-size: 26px;
+    padding: 1rem 5rem 0rem 5rem;
+}
