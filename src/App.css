@@ -1,0 +1,48 @@
+.flex {
+    display: flex;
+}
+
+.block {
+    display: block;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.margin-auto {
+    margin: auto;
+}
+
+.sticky-top {
+    position: sticky;
+    top: 0;
+}
+
+.font-13 {
+    font-size: 13px;
+}
+
+.font-18 {
+    font-size: 18px;
+}
+
+.bg-dark {
+    background-color: rgb(38, 42, 51);
+}
+
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+.paddingt-1 {
+    padding-top: 2rem;
+}
+
+.width-12 {
+    width: 12rem;
+}
