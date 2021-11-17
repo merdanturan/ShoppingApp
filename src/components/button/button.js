@@ -8,9 +8,11 @@ const Button = ({
     return (
         <>
             {type === 'social' ?
-                <button className="social">
-                    <Icon type={'facebook'} />   <p>FOLLOW</p>
-                </button>
+                <a href='https://www.facebook.com' target="_blank">
+                    <button className="social">
+                        <Icon type={'facebook'} />   <p>FOLLOW</p>
+                    </button>
+                </a>
                 :
                 type === 'loadMore' ?
                     <button className="load-more">
